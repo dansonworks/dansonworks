@@ -1,11 +1,7 @@
 **Hi there** 👋
- 
-
 ** 👨‍💻 Aspiring SOC Analyst | Cyber Security Graduate | SIEM & Incident Response Focus**
 
----
-
-## 👨‍💻 About Me
+--- 
 
 I’m a Cyber Security Management graduate aiming for a Junior SOC Analyst role. I like digging through logs, chasing alerts, and building home labs that simulate real attacks — in other words, I voluntarily hunt down problems for fun.
 
