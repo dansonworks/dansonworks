@@ -1,8 +1,7 @@
 **Hi there** 👋
+ 
 
-# 👨‍💻 Ozi Danson Ibe Wuihe
-
-**Aspiring SOC Analyst | Cyber Security Graduate | SIEM & Incident Response Focus**
+** 👨‍💻 Aspiring SOC Analyst | Cyber Security Graduate | SIEM & Incident Response Focus**
 
 ---
 
