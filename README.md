@@ -1,9 +1,8 @@
 **Hi there** 👋
-** 👨‍💻 Aspiring SOC Analyst | Cyber Security Graduate | SIEM & Incident Response Focus**
 
 --- 
 
-I’m a Cyber Security Management graduate aiming for a Junior SOC Analyst role. I like digging through logs, chasing alerts, and building home labs that simulate real attacks — in other words, I voluntarily hunt down problems for fun.
+👨‍💻 I’m a Cyber Security Management graduate aiming for a Junior SOC Analyst role. I like digging through logs, chasing alerts, and building home labs that simulate real attacks — in other words, I voluntarily hunt down problems for fun.
 
 I have practical experience in SIEM monitoring, log analysis, alert triage, and incident investigation using tools such as Microsoft Sentinel, Wazuh, Suricata, and Azure security services.
 
