@@ -1,3 +1,5 @@
+**Hi there** 👋
+
 # 👨‍💻 Ozi Danson Ibe Wuihe
 
 **Aspiring SOC Analyst | Cyber Security Graduate | SIEM & Incident Response Focus**
@@ -6,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Cyber Security Management graduate focused on building a career as a Junior SOC Analyst. I have hands-on experience in IT support and cybersecurity through volunteer work, academic projects, and home lab environments that simulate real-world SOC operations.
+I’m a Cyber Security Management graduate aiming for a Junior SOC Analyst role. I like digging through logs, chasing alerts, and building home labs that simulate real attacks — in other words, I voluntarily hunt down problems for fun.
 
 I have practical experience in SIEM monitoring, log analysis, alert triage, and incident investigation using tools such as Microsoft Sentinel, Wazuh, Suricata, and Azure security services.
 
