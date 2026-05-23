@@ -8,6 +8,8 @@ I have practical experience in SIEM monitoring, log analysis, alert triage, and 
 
 I am familiar with the MITRE ATT&CK framework, NIST incident response processes, and basic threat intelligence workflows. My experience includes building SOC-style labs, analysing malware in controlled environments, and working across both Windows and Linux systems.
 
+Currently building practical experience with Splunk, focusing on log analysis, dashboarding, and security event investigation as I strengthen my SOC analyst skill set.
+
 I am now seeking a Junior SOC Analyst role where I can apply and develop my skills in threat detection, security monitoring, and incident response.
 
 ---
